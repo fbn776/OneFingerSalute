@@ -1,12 +1,18 @@
 # One Finger Salute 🫡
 
-<img src="./assets/one-finger-salute.gif" alt="One Finger Salute"/>
+<img src="./assets/one-finger-salute.gif" alt="One Finger Salute (AI Generated)"/>
 
 > ⚠️ **NSFW Warning:** This project involves explicit gestures, words etc. Use responsibly and for fun only.
 
 Shut down your PC with a **middle finger**.  
 Just type `fuckyou`, flip the bird, and your machine goes *bye bye*.  
 No dialogs. No prompts. Just pure **rage quit** energy. 👍👍👍
+
+<video controls>
+  <source src="/assets/one-finger-salute.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>
+
 
 ---
 
@@ -92,6 +98,9 @@ python src/main.py
 
 This is **completely pointless** project. It exists, simple beacause it can
 
-Pro tip: 
+Pro tip:
 If installation doesn't work, use a alias to run the script;
 `fuckyou="python src/main.py"` 😆
+
+- The image <img src="./assets/one-finger-salute.gif" alt="One Finger Salute (AI Generated)" width="24px"/> is generated
+by chatGPT.
