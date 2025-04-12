@@ -23,3 +23,8 @@ source .venv/bin/activate
 ```shell
 pip install -r requirements.txt
 ```
+
+### Run the Application
+```shell
+python src/main.py
+```
