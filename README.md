@@ -8,10 +8,9 @@ Shut down your PC with a **middle finger**.
 Just type `fuckyou`, flip the bird, and your machine goes *bye bye*.  
 No dialogs. No prompts. Just pure **rage quit** energy. 👍👍👍
 
-<video controls>
-  <source src="./assets/one-finger-salute.mp4" type="video/webm">
-  Your browser does not support the video tag.
-</video>
+## Demo Video
+
+[Demo.mp4](assets/one-finger-salute.mp4)
 
 ---
 
