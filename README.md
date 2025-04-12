@@ -9,11 +9,9 @@ Just type `fuckyou`, flip the bird, and your machine goes *bye bye*.
 No dialogs. No prompts. Just pure **rage quit** energy. 👍👍👍
 
 <video controls>
-  <source src="./assets/one-finger-salute.webm" type="video/webm">
+  <source src="./assets/one-finger-salute.mp4" type="video/webm">
   Your browser does not support the video tag.
 </video>
-
-[one-finger-salute.webm](assets/one-finger-salute.webm)
 
 ---
 
