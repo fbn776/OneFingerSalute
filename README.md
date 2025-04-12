@@ -10,7 +10,7 @@ No dialogs. No prompts. Just pure **rage quit** energy. 👍👍👍
 
 ## Demo Video
 
-[Demo.mp4](assets/one-finger-salute.mp4)
+[Demo.mp4](https://github.com/fbn776/OneFingerSalute/raw/refs/heads/main/assets/one-finger-salute.mp4)
 
 ---
 
