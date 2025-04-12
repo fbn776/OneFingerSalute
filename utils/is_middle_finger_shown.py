@@ -28,9 +28,6 @@ def is_middle_finger_gesture(hand_landmarks, width, height):
     ring_is_curled = distance(ring_tip, wrist) < 1.2 * distance(ring_mcp, wrist)
     pinky_is_curled = distance(pinky_tip, wrist) < 1.2 * distance(pinky_mcp, wrist)
 
-    # thumb_mcp = coords[1]
-    # thumb_is_tucked = distance(thumb_tip, wrist) < 1.3 * distance(thumb_mcp, wrist)
-
     is_gesture = (middle_is_extended and
                   index_is_curled and
                   ring_is_curled and
