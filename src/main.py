@@ -1,3 +1,4 @@
+import os
 from time import sleep
 import cv2
 import mediapipe as mp
@@ -6,7 +7,10 @@ from mediapipe.tasks.python import vision
 from utils.draw_landmark import draw_landmarks_on_image
 from utils.shutdown import shutdown
 
-base_options = python.BaseOptions(model_asset_path='src/model/hand_landmarker.task')
+script_dir = os.path.dirname(os.path.abspath(__file__))
+model_path = os.path.join(script_dir, 'model', 'hand_landmarker.task')
+
+base_options = python.BaseOptions(model_asset_path=model_path)
 options = vision.HandLandmarkerOptions(base_options=base_options, num_hands=2)
 detector = vision.HandLandmarker.create_from_options(options)
 
