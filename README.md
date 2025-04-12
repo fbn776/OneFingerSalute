@@ -2,7 +2,7 @@
 
 <img src="./assets/one-finger-salute.gif" alt="One Finger Salute"/>
 
-> ⚠️ **NSFW Warning:** This project involves explicit gestures and words. Use responsibly and for fun only.
+> ⚠️ **NSFW Warning:** This project involves explicit gestures, words etc. Use responsibly and for fun only.
 
 Shut down your PC with a **middle finger**.  
 Just type `fuckyou`, flip the bird, and your machine goes *bye bye*.  
