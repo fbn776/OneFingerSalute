@@ -13,6 +13,7 @@ No dialogs. No prompts. Just pure **rage quit** energy. 👍👍👍
   Your browser does not support the video tag.
 </video>
 
+[one-finger-salute.webm](assets/one-finger-salute.webm)
 
 ---
 
